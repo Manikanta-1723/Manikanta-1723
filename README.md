@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Manikanta
-- 👀 I’m interested in VLSI Design Verification
+- 👀 Aspiring  VLSI Engineer
 - 🌱 I’m currently learning Verilog and System Verilog
   
